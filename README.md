@@ -3,6 +3,7 @@ A 3D printed tape dispenser that shows you how long a piece of tape you're pulli
 
 <img width="225" height="300" alt="front on pic" src="https://github.com/user-attachments/assets/b2f72097-6b1f-4e0a-b79a-494f413059c0" />
 <img width="400" height="300" alt="screen Vs irl comparison" src="https://github.com/user-attachments/assets/9907575c-74fb-44bc-8319-f814eb78d6f6" />
+<img width="230" height="300" alt="image" src="https://github.com/user-attachments/assets/38f82b6c-6817-4257-943d-82458afce713" />
 
 
 # You will need
