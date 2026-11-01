@@ -6,3 +6,13 @@ Since the tape dispenser design required a chain, but I hadn't designed a chain 
 This side project really helped me, because without it, there's no way my chain would be as smooth as it is now. It also had the added benefit of being fun to play with, so I uploaded it to [Makerworld](https://makerworld.com/en/models/3051957-chain-sprocket-mechanism#profileId-3433460) and [Printables](https://www.printables.com/model/1781538-chain-and-sprocket-mechanism)
 
 **This model is optional to print**, but if you'd like to make it, I've provided the .3mf file & separate .step files 
+
+# Printing instructions
+Use the .3mf file in Bambu studio to have all the settings set already, otherwise follow these settings:
+- Disable prime tower for the handle colour change
+- No supports
+- Keep the layer height at or below 0.2mm so that the screw threads can be printed to a high quality
+- Paint brims under each end link for the chain (see picture below)
+<img width="800" height="417" alt="image" src="https://github.com/user-attachments/assets/4d8dbf53-2e71-47f0-932d-fce80d0c830c" />
+
+# Assembly guide
