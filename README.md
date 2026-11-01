@@ -1,6 +1,10 @@
 # 3D-printed-tape-dispenser-with-mechanical-tape-length-measuring
 A 3D printed tape dispenser that shows you how long a piece of tape you're pulling out is before you cut it. Works best for washi tape or paper-like tape, because the tape cutter is 3D printed and not very sharp
 
+<img width="225" height="300" alt="front on pic" src="https://github.com/user-attachments/assets/b2f72097-6b1f-4e0a-b79a-494f413059c0" />
+<img width="400" height="300" alt="screen Vs irl comparison" src="https://github.com/user-attachments/assets/9907575c-74fb-44bc-8319-f814eb78d6f6" />
+
+
 # You will need
 - 3D printer filament (PLA or other rigid filament)
 - A 8x22x7mm ball bearing (you might be able to 3D print one from someone else's file)
