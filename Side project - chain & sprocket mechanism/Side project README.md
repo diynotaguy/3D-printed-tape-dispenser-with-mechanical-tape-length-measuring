@@ -16,3 +16,24 @@ Use the .3mf file in Bambu studio to have all the settings set already, otherwis
 <img width="800" height="417" alt="image" src="https://github.com/user-attachments/assets/4d8dbf53-2e71-47f0-932d-fce80d0c830c" />
 
 # Assembly guide
+1. Rotate each link in the chain so that it can articulate. You'll probably need pliers to free the two end links, but be careful not to crush them when gripping them with the pliers.
+
+![failed to load gif](https://github.com/diynotaguy/3D-printed-tape-dispenser-with-mechanical-tape-length-measuring/blob/main/Side%20project%20-%20chain%20%26%20sprocket%20mechanism/side%20project%20gifs/C%26S%20mech%20assembly%20pt1.gif)
+
+2. Rotate the chain into a loop so that the side on the build plate is on the outside. Use a dab of superglue on the dovetail joint where the chain needs join and push the dovetail pin into the socket. I'd recommend using a cocktail stick or something similar to apply the glue to avoid gluing your fingers or jamming the chain.
+
+![failed to load gif](https://github.com/diynotaguy/3D-printed-tape-dispenser-with-mechanical-tape-length-measuring/blob/main/Side%20project%20-%20chain%20%26%20sprocket%20mechanism/side%20project%20gifs/C%26S%20mech%20assembly%20pt2.gif)
+
+3. While the glue is drying, rotate the square axle in the base and the rotating cylinder in the handle to allow them to freely rotate.
+
+4. Once the glue is dry, insert the gears into the chain one after the other, making sure the teeth are meshing with the chain. Pick up the gears at the same time while keeping them apart so that the chain is taut and doesn't fall off. Place the gears onto their respective axles on the base part. 
+
+![failed to load gif](https://github.com/diynotaguy/3D-printed-tape-dispenser-with-mechanical-tape-length-measuring/blob/main/Side%20project%20-%20chain%20%26%20sprocket%20mechanism/side%20project%20gifs/C%26S%20mech%20assembly%20pt3.gif)
+
+5. Put the top part on, making sure the big hole goes on side with the longer axle. Screw one of the nuts onto the shorter axle. Put the handle on the longer axle, and tighten the second nut down over it.
+
+![failed to load gif](https://github.com/diynotaguy/3D-printed-tape-dispenser-with-mechanical-tape-length-measuring/blob/main/Side%20project%20-%20chain%20%26%20sprocket%20mechanism/side%20project%20gifs/C%26S%20mech%20assembly%20pt4.gif)
+
+### FINISHED! It may feel a little stiff at first, but it should be buttery smooth after a few turns of the handle
+
+ 
