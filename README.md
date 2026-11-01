@@ -72,3 +72,9 @@ Red = tape recovery system parts
 <img width="150" height="200" alt="4" src="https://github.com/user-attachments/assets/0d54cc54-ffa3-48a3-9626-d755fa992009" />
 
 ## 3) The driving axle
+<img width="150" height="200" alt="1" src="https://github.com/user-attachments/assets/c476c7c1-1d9f-4787-8179-d11c430baf8b" />
+<img width="150" height="200" alt="2" src="https://github.com/user-attachments/assets/b2a6f7bc-4057-43f3-bd06-7600008e41ac" />
+<img width="150" height="200" alt="3" src="https://github.com/user-attachments/assets/2b2c643d-092c-49e8-832d-58947877792f" />
+<img width="150" height="200" alt="4" src="https://github.com/user-attachments/assets/c83027b4-8038-4d43-a950-2b06cec2fa87" />
+<img width="150" height="200" alt="5" src="https://github.com/user-attachments/assets/289db466-47fa-47ce-a70f-91f33ab39ad9" />
+<img width="150" height="200" alt="6" src="https://github.com/user-attachments/assets/2969f427-1f5c-468a-be3c-489eb95a2d77" />
