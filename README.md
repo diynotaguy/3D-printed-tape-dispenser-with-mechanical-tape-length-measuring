@@ -26,6 +26,7 @@ Only around 3.5g of support is needed, so if you follow these instructions, you 
 - add an outer brim to the driven axle/secondary axle part
 - add brim ears on either end of the chain like so
 <img width="362" height="44" alt="image" src="https://github.com/user-attachments/assets/36cd0402-6ebf-456a-863d-5dd3bec0af6a" />
+
 - if any other parts are causing warping or adhesion issues, add an outer brim
 
 ## Main settings/instructions
