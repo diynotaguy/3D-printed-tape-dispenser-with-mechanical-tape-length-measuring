@@ -40,6 +40,15 @@ For simplicity, the assembly instructions are broken up into 6 sections:
 5) Attaching the axles
 6) Finishing the tape dispenser
 
+I've arranged the parts on the second build plate in groups so that it's easier to tell which pieces you need to use for which step:
+
+<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/ed0e249e-5eb1-4f7f-a6a9-ecfb59800bb0" />
+
+Key:
+Purple = driven axle parts
+Green = driving axle parts
+Red = tape recovery system parts
+
 ## 1) The chain
 1. Rotate each link in the chain so that it can articulate. You'll probably need pliers to free the two end links, but be careful not to crush them when gripping them with the pliers.
    
