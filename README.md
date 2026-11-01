@@ -54,11 +54,11 @@ Red = tape recovery system parts
 ## 1) The chain
 1. Rotate each link in the chain so that it can articulate. You'll probably need pliers to free the two end links, but be careful not to crush them when gripping them with the pliers.
    
-![gif failed to load](https://github.com/diynotaguy/3D-printed-tape-dispenser-with-mechanical-tape-length-measuring/blob/main/readme%20pics%20%26%20gifs/Chain/1.gif)
+![gif failed to load](https://github.com/diynotaguy/3D-printed-tape-dispenser-with-mechanical-tape-length-measuring/blob/main/Side%20project%20-%20chain%20%26%20sprocket%20mechanism/side%20project%20gifs/C%26S%20mech%20assembly%20pt1.gif)
 
 2. Rotate the chain into a loop so that the side on the build plate is on the outside. Use a dab of superglue on the dovetail joint where the chain needs join and push the dovetail pin into the socket. I'd recommend using a cocktail stick or something similar to apply the glue to avoid gluing your fingers or jamming the chain.
    
-![gif failed to load](https://github.com/diynotaguy/3D-printed-tape-dispenser-with-mechanical-tape-length-measuring/blob/main/readme%20pics%20%26%20gifs/Chain/2.gif)
+![gif failed to load](https://github.com/diynotaguy/3D-printed-tape-dispenser-with-mechanical-tape-length-measuring/blob/main/Side%20project%20-%20chain%20%26%20sprocket%20mechanism/side%20project%20gifs/C%26S%20mech%20assembly%20pt2.gif)
 
 ## 2) The driven axle
 1. Slide the driven gear then the axle spacer on the driven axle. The chamfered end of the axle spacer should be towards the driven gear
