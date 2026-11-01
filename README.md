@@ -89,7 +89,7 @@ Red = tape recovery system parts
 <img width="150" height="200" alt="6" src="https://github.com/user-attachments/assets/2969f427-1f5c-468a-be3c-489eb95a2d77" />
 
 ## 4) The tape recovery system
-1. place the push piece in the channel on the tape cutter with the dovetail section poking through the hole
+1. Place the push piece in the channel on the tape cutter with the dovetail section poking through the hole
 <img width="150" height="200" alt="1" src="https://github.com/user-attachments/assets/1b6ecaac-5bd2-469e-afcc-23f8373fe39c" />
 
 2. Slot the slider onto the end of the push piece dovetail section from the other side of the tape cutter, then slide then push the sider and push piece in opposite directions so they become locked together.
@@ -97,8 +97,30 @@ Red = tape recovery system parts
 <img width="150" height="200" alt="3" src="https://github.com/user-attachments/assets/e4b84014-14fa-4e06-a24b-cb18a8fd97fa" />
 
 ## 5) Attaching the axles
+1. Put the chain around the driven gear, then slot the driven axle assembly into the tray on the right hand side. The driven gear & chain need to be at the back, and the screw on the driven axle holder needs to be slotted into the channel on the front right hand side of the tray.
 <img width="150" height="200" alt="1" src="https://github.com/user-attachments/assets/ddd4dbb5-3cdf-4beb-b773-a40d14a6315e" />
 <img width="150" height="200" alt="2" src="https://github.com/user-attachments/assets/803f2752-2afd-4376-9503-6de93e56b1fc" />
+
+2. Screw the driven axle holder nut onto the screw of the axle holder to secure the driven axle in place
 <img width="150" height="200" alt="3" src="https://github.com/user-attachments/assets/6ab24356-17ab-4a41-9c9c-f5729ad4f136" />
+
+3. Mesh the driving gear on the driving axle assembly with the inside of the chain, then slot the bearing holder into the bearing holder pocket which is on the front left hand side of the tray. The driving axle should also now be secure.
 <img width="150" height="200" alt="4" src="https://github.com/user-attachments/assets/b49904cb-c4e8-4b7f-b532-633b6a923665" />
 <img width="150" height="200" alt="5" src="https://github.com/user-attachments/assets/ea36140b-2144-4ce2-8416-eb6476742737" />
+
+## 6) Finishing it! 
+1. Line up the tape cutter (with the tape recovery system attached) with the brackets on the top of the tray, and slide it all the way in 
+<img width="150" height="200" alt="1" src="https://github.com/user-attachments/assets/0ef90926-f3f2-4991-a5dc-aad8e06b5605" />
+<img width="150" height="200" alt="2" src="https://github.com/user-attachments/assets/43bba012-7982-4ff3-9fe1-a534cff9c586" />
+
+2. Put your tape roll of choice in the base of the tray with it already partially unrolled. Then push the tape holder part through the middle of your tape roll and into the tray, making sure the tray lines up with the tape holder at both the triangular joint at the back of the tray and the dovetail joint at the front.
+<img width="150" height="200" alt="3" src="https://github.com/user-attachments/assets/3cd87720-93f3-4075-a8a9-825c16cd6840" />
+
+3. At the top of the tray, slide your tape tail (the bit you've unrolled already) into its position. It needs to go over the bearing casing, under the tape recovery system, then come out of the tape dispenser by the serrated teeth of the tape cutter. Make sure that the tape tail is either temporarily stuck to a part of the tape cutter or sticking out long enough so that you don't lose it within the tape dispenser when performing the next assembly steps.
+<img width="150" height="200" alt="4" src="https://github.com/user-attachments/assets/e24104e1-74c1-4fe9-b55f-6103f6400ad0" />
+<img width="150" height="200" alt="5" src="https://github.com/user-attachments/assets/70c79aed-546c-4af1-a4ca-aa356e37ef4f" />
+<img width="150" height="200" alt="6" src="https://github.com/user-attachments/assets/ebbff984-0144-4462-8e6c-b671c8303ab7" />
+
+
+<img width="150" height="200" alt="front on pic" src="https://github.com/user-attachments/assets/32cc7aa2-0cd4-4671-b444-41fd1da18663" />
+
