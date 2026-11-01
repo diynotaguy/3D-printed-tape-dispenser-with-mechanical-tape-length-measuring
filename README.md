@@ -42,7 +42,24 @@ For simplicity, the assembly instructions are broken up into 6 sections:
 
 ## 1) The chain
 1. Rotate each link in the chain so that it can articulate. You'll probably need pliers to free the two end links, but be careful not to crush them when gripping them with the pliers.
+   
 ![gif failed to load](https://github.com/diynotaguy/3D-printed-tape-dispenser-with-mechanical-tape-length-measuring/blob/main/readme%20pics%20%26%20gifs/Chain/1.gif)
 
 2. Rotate the chain into a loop so that the side on the build plate is on the outside. Use a dab of superglue on the dovetail joint where the chain needs join and push the dovetail pin into the socket. I'd recommend using a cocktail stick or something similar to apply the glue to avoid gluing your fingers or jamming the chain.
-![gif failed to load]
+   
+![gif failed to load](https://github.com/diynotaguy/3D-printed-tape-dispenser-with-mechanical-tape-length-measuring/blob/main/readme%20pics%20%26%20gifs/Chain/2.gif)
+
+## 2) The driven axle
+1. Put the driven gear on the driven axle
+<img width="150" height="200" alt="1" src="https://github.com/user-attachments/assets/61a928bb-13c6-48b3-8891-f3536a902025" />
+
+2. Put the axle spacer on the axle, with the chamfered end towards the driven gear
+<img width="150" height="200" alt="2" src="https://github.com/user-attachments/assets/a0450874-eff1-4031-b3ac-4b551e945cc1" />
+
+3. Put the number cylinder on the axle, with the numbers going upwards in the clockwise direction
+<img width="150" height="200" alt="3" src="https://github.com/user-attachments/assets/4bd25ec9-f3c4-46fa-aa9b-e8f62a66053e" />
+
+4. Put the axle holder on the axle, with the screw pointing away from the number cylinder
+<img width="150" height="200" alt="4" src="https://github.com/user-attachments/assets/0d54cc54-ffa3-48a3-9626-d755fa992009" />
+
+## 3) The driving axle
