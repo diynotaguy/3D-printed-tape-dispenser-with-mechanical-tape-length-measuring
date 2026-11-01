@@ -1,6 +1,10 @@
 # 3D-printed-tape-dispenser-with-mechanical-tape-length-measuring
 A 3D printed tape dispenser that shows you how long a piece of tape you're pulling out is before you cut it. Works best for washi tape or paper-like tape, because the tape cutter is 3D printed and not very sharp
 
+# You will need (more details in BOM)
+- 3D printer filament (PLA or other rigid filament)
+- A 8x22x7mm ball bearing (you might be able to 3D print one from someone else's file)
+
 # Printing instructions
 The best way is to slice the 'Ship 1 both plates slicer file.3mf' file in Bambu studio, as it should import with the required printing settings. Otherwise, follow the instructions below.
 
@@ -38,6 +42,7 @@ For simplicity, the assembly instructions are broken up into 6 sections:
 
 ## 1) The chain
 1. Rotate each link in the chain so that it can articulate. You'll probably need pliers to free the two end links, but be careful not to crush them when gripping them with the pliers.
-<img width="320" height="240" alt="image" src="https://github.com/user-attachments/assets/dff22055-d4af-440a-bcd2-964a5b47a866" />
+![gif failed to load](https://github.com/diynotaguy/3D-printed-tape-dispenser-with-mechanical-tape-length-measuring/blob/main/readme%20pics%20%26%20gifs/Chain/1.gif)
 
 2. Rotate the chain into a loop so that the side on the build plate is on the outside. Use a dab of superglue on the dovetail joint where the chain needs join and push the dovetail pin into the socket. I'd recommend using a cocktail stick or something similar to apply the glue to avoid gluing your fingers or jamming the chain.
+![gif failed to load]
