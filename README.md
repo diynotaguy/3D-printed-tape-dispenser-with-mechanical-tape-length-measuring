@@ -5,6 +5,10 @@ A 3D printed tape dispenser that shows you how long a piece of tape you're pulli
 <img width="333" height="250" alt="screen Vs irl comparison" src="https://github.com/user-attachments/assets/9907575c-74fb-44bc-8319-f814eb78d6f6" />
 <img width="195" height="250" alt="image" src="https://github.com/user-attachments/assets/38f82b6c-6817-4257-943d-82458afce713" />
 
+# Why I made this
+I made the project because I wanted a tape dispenser that would fit in my drawer (its quite a tall/deep drawer) and be usable without taking it out. That's why I designed it so that you pull and cut the tape from above. As for the measuring part, I just thought it might be useful, I'd never seen a tape dispenser measure the tape before, and it seemed challenging and fun to make (which I can confirm is true!!). 
+
+In the future, I'd like to make the measuring more accurate, add a mechanism that automatically resets the measuring cylinder to 0 when the tape is cut, and also make it compatible with gridfinity. 
 
 # You will need
 - 3D printer filament (PLA or other rigid filament)
