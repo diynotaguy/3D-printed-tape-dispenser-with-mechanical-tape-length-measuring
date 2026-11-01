@@ -87,3 +87,18 @@ Red = tape recovery system parts
 
 4. Your completed driving axle should look like this:
 <img width="150" height="200" alt="6" src="https://github.com/user-attachments/assets/2969f427-1f5c-468a-be3c-489eb95a2d77" />
+
+## 4) The tape recovery system
+1. place the push piece in the channel on the tape cutter with the dovetail section poking through the hole
+<img width="150" height="200" alt="1" src="https://github.com/user-attachments/assets/1b6ecaac-5bd2-469e-afcc-23f8373fe39c" />
+
+2. Slot the slider onto the end of the push piece dovetail section from the other side of the tape cutter, then slide then push the sider and push piece in opposite directions so they become locked together.
+<img width="150" height="200" alt="2" src="https://github.com/user-attachments/assets/b5c28989-2594-4343-86fb-565d07a13d53" />
+<img width="150" height="200" alt="3" src="https://github.com/user-attachments/assets/e4b84014-14fa-4e06-a24b-cb18a8fd97fa" />
+
+## 5) Attaching the axles
+<img width="150" height="200" alt="1" src="https://github.com/user-attachments/assets/ddd4dbb5-3cdf-4beb-b773-a40d14a6315e" />
+<img width="150" height="200" alt="2" src="https://github.com/user-attachments/assets/803f2752-2afd-4376-9503-6de93e56b1fc" />
+<img width="150" height="200" alt="3" src="https://github.com/user-attachments/assets/6ab24356-17ab-4a41-9c9c-f5729ad4f136" />
+<img width="150" height="200" alt="4" src="https://github.com/user-attachments/assets/b49904cb-c4e8-4b7f-b532-633b6a923665" />
+<img width="150" height="200" alt="5" src="https://github.com/user-attachments/assets/ea36140b-2144-4ce2-8416-eb6476742737" />
