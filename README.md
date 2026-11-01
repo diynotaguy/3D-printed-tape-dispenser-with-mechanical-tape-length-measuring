@@ -28,3 +28,16 @@ Only around 3.5g of support is needed, so if you follow these instructions, you 
 - 2 wall loops, 15% infill is suitable
 
 # Assembly instructions
+For simplicity, the assembly instructions are broken up into 6 sections:
+1) The chain
+2) The driven axle/secondary axle
+3) The driving axle/primary axle
+4) The tape recovery system
+5) Attaching the axles
+6) Finishing the tape dispenser
+
+## 1) The chain
+1. Rotate each link in the chain so that it can articulate. You'll probably need pliers to free the two end links, but be careful not to crush them when gripping them with the pliers.
+<img width="320" height="240" alt="image" src="https://github.com/user-attachments/assets/dff22055-d4af-440a-bcd2-964a5b47a866" />
+
+2. Rotate the chain into a loop so that the side on the build plate is on the outside. Use a dab of superglue on the dovetail joint where the chain needs join and push the dovetail pin into the socket. I'd recommend using a cocktail stick or something similar to apply the glue to avoid gluing your fingers or jamming the chain.
