@@ -13,5 +13,9 @@ Only around 3.5g of support is needed, so if you follow these instructions, you 
 - turn on tree supports for the bearing casing and tray parts
 - turn on normal supports for the bearing holder part
 
-## Brims
+## Brims (in the pictures, the brim is blue)
 - add brim ears at each corner of the tape cutter part like so 
+![image failed to load](https://github.com/diynotaguy/3D-printed-tape-dispenser-with-mechanical-tape-length-measuring/blob/main/readme%20pics%20%26%20gifs/Print%20instructions/Tape%20cutter%20brim%20ears.png)
+- add an outer brim to the driven axle/secondary axle part
+- add brim ears on either end of the chain like so
+![image failed to load](https://github.com/diynotaguy/3D-printed-tape-dispenser-with-mechanical-tape-length-measuring/blob/main/readme%20pics%20%26%20gifs/Print%20instructions/Chain%20brim%20ears.png)
