@@ -1,9 +1,11 @@
 # 3D-printed-tape-dispenser-with-mechanical-tape-length-measuring
 A 3D printed tape dispenser that shows you how long a piece of tape you're pulling out is before you cut it. Works best for washi tape or paper-like tape, because the tape cutter is 3D printed and not very sharp
 
-# You will need (more details in BOM)
+# You will need
 - 3D printer filament (PLA or other rigid filament)
 - A 8x22x7mm ball bearing (you might be able to 3D print one from someone else's file)
+  
+*more details in BOM*
 
 # Printing instructions
 The best way is to slice the 'Ship 1 both plates slicer file.3mf' file in Bambu studio, as it should import with the required printing settings. Otherwise, follow the instructions below.
@@ -72,9 +74,16 @@ Red = tape recovery system parts
 <img width="150" height="200" alt="4" src="https://github.com/user-attachments/assets/0d54cc54-ffa3-48a3-9626-d755fa992009" />
 
 ## 3) The driving axle
+1. Put the bearing on the bearing holder and screw the bearing holder nut on
 <img width="150" height="200" alt="1" src="https://github.com/user-attachments/assets/c476c7c1-1d9f-4787-8179-d11c430baf8b" />
 <img width="150" height="200" alt="2" src="https://github.com/user-attachments/assets/b2a6f7bc-4057-43f3-bd06-7600008e41ac" />
+
+2. Push the bearing casing over the bearing
 <img width="150" height="200" alt="3" src="https://github.com/user-attachments/assets/2b2c643d-092c-49e8-832d-58947877792f" />
+
+3. Align the square recess in the driving gear with the end of the bearing casing, and screw the driving gear screw through the driving gear and into the bearing casing
 <img width="150" height="200" alt="4" src="https://github.com/user-attachments/assets/c83027b4-8038-4d43-a950-2b06cec2fa87" />
 <img width="150" height="200" alt="5" src="https://github.com/user-attachments/assets/289db466-47fa-47ce-a70f-91f33ab39ad9" />
+
+4. Your completed driving axle should look like this:
 <img width="150" height="200" alt="6" src="https://github.com/user-attachments/assets/2969f427-1f5c-468a-be3c-489eb95a2d77" />
