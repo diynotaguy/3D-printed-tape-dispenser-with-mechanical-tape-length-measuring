@@ -15,7 +15,16 @@ Only around 3.5g of support is needed, so if you follow these instructions, you 
 
 ## Brims (in the pictures, the brim is blue)
 - add brim ears at each corner of the tape cutter part like so 
-![image failed to load](https://github.com/diynotaguy/3D-printed-tape-dispenser-with-mechanical-tape-length-measuring/blob/main/readme%20pics%20%26%20gifs/Print%20instructions/Tape%20cutter%20brim%20ears.png)
+<img width="260" height="156" alt="image" src="https://github.com/user-attachments/assets/bef85aa1-7096-4796-bbc9-5bdbfe459412" />
+
 - add an outer brim to the driven axle/secondary axle part
 - add brim ears on either end of the chain like so
-![image failed to load](https://github.com/diynotaguy/3D-printed-tape-dispenser-with-mechanical-tape-length-measuring/blob/main/readme%20pics%20%26%20gifs/Print%20instructions/Chain%20brim%20ears.png)
+<img width="362" height="44" alt="image" src="https://github.com/user-attachments/assets/36cd0402-6ebf-456a-863d-5dd3bec0af6a" />
+- if any other parts are causing warping or adhesion issues, add an outer brim
+
+## Main settings/instructions
+- PLA or any other rigid filament can be used
+- 0.2mm layer height is suitable
+- 2 wall loops, 15% infill is suitable
+
+# Assembly instructions
