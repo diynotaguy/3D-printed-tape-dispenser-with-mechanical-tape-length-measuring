@@ -13,7 +13,7 @@ Only around 3.5g of support is needed, so if you follow these instructions, you 
 - turn on tree supports for the bearing casing and tray parts
 - turn on normal supports for the bearing holder part
 
-## Brims (in the pictures, the brim is blue)
+## Brims (in the pictures, the brim is dark blue)
 - add brim ears at each corner of the tape cutter part like so 
 <img width="260" height="156" alt="image" src="https://github.com/user-attachments/assets/bef85aa1-7096-4796-bbc9-5bdbfe459412" />
 
